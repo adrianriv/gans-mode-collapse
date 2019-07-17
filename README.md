@@ -4,8 +4,13 @@ Code for GAN experiments from paper the paper 'Competing Against Equilibria in Z
 The figure below shows a comparison of Saddle Point Follow the Leader vs other algorithms for
 training GANs in a mixture of Gaussians dataset.
 
-<img src="alg_comparison.png" alt="" class="center" width="500"/>
+<p class="aligncenter">
+    <img src="alg_comparison.png" alt="" class="center" width="500"/>
+</p>
 
+Please see the paper for more details!
+
+<h2>The Files In This Repo</h2>
 spftl_mix_gaussians.py contains the implementation of SP-RFTL in the paper
 
 unrolled_mix_gaussians.py contains the implementation of Unrolled we used in the paper,
