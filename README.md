@@ -2,7 +2,7 @@
 Code for GAN experiments from paper the paper 'Competing Against Equilibria in Zero-Sum Games with Evolving Payoffs'.
 
 ![Mixture of Gaussians Dataset. Comparison of Saddle Point Follow the Leader vs other algorithms for
- training GANs](alg_comparison.png)
+ training GANs](alg_comparison.png =200x)
 
 spftl_mix_gaussians.py contains the implementation of SP-RFTL in the paper
 
