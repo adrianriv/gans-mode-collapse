@@ -1,9 +1,9 @@
 # gans-mode-collapse
 Code for GAN experiments from paper the paper 'Competing Against Equilibria in Zero-Sum Games with Evolving Payoffs'.
 
-![Mixture of Gaussians Dataset. Comparison of Saddle Point Follow the Leader vs other algorithms for
- training GANs](alg_comparison.png)
- { width: 200px; }
+The figure below shows a comparison of Saddle Point Follow the Leader vs other algorithms for
+training GANs in a mixture of Gaussians dataset.
+<img src="alg_comparison.png" alt="" width="200"/>
 
 spftl_mix_gaussians.py contains the implementation of SP-RFTL in the paper
 
