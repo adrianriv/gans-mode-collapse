@@ -72,6 +72,5 @@ crashlytics-build.properties
 staticfiles
 .env
 .DS_Store
-*.png
 *.eps
 good_choices.rtf
